@@ -45,6 +45,68 @@ Crie uma classe chamada `Carro` e outra chamada `Proprietário`. Instancie **doi
 
 ---
 
+## 2.1. Classes sem relacionamento
+
+### Atividades (Criação de classes)
+
+#### Exercícios 1 a 10 - Criação de classes
+
+Crie a **classe** em Java com seus métodos mais elementares:
+
+- **Construtores (sem parâmetro e todos os parâmetros)**;
+- **Getters e Setters**;
+- **Preencher**;
+- **Imprimir**;
+- **Copiar**;
+
+**OBS:** qualquer dúvida que você tiver, assista à aula acima, onde tudo está explicado detalhadamente.
+
+### Ex0. Telefone Celular
+
+- **Atributos**: `marca` (String), `modelo` (String), `preco` (double), `memoria` (int).
+
+### Ex1. TV
+
+- **Atributos**: `marca` (String), `tamanho` (double), `resolucao` (String), `preco` (double).
+
+### Ex2. Casa
+
+- **Atributos**: `endereco` (String), `area` (double), `num_quartos` (int), `preco` (double).
+
+### Ex3. Aluno
+
+- **Atributos**: `nome` (String), `idade` (int), `matricula` (String), `anoIngresso` (int).
+
+### Ex4. Livro
+
+- **Atributos**: `titulo` (String), `autor` (String), `num_pag` (int), `preco` (double).
+
+### Ex5. Animal de Estimação
+
+- **Atributos**: `especie` (String), `raca` (String), `idade` (int), `peso` (double).
+
+### Ex6. Bicicleta
+
+- **Atributos**: `marca` (String), `modelo` (String), `tamanho_quadro` (double), `preco` (double).
+
+### Ex7. Filme
+
+- **Atributos**: `titulo` (String), `diretor` (String), `duracao` (int), `preco` (double).
+
+### Ex8. Música
+
+- **Atributos**: `titulo` (String), `artista` (String), `duracao` (double), `preco` (double).
+
+### Ex9. Jogo de Vídeo Game
+
+- **Atributos**: `titulo` (String), `plataforma` (String), `classificacao_etaria` (String), `preco` (double).
+
+### Ex10. Bolsa de Valores
+
+- **Atributos**: `nome_empresa` (String), `preco_acao` (double), `volume_negociacoes` (double), `variacao_diaria` (double).
+  
+
+
 ## Como Executar
 
 1. Certifique-se de ter o [JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado na sua máquina.
