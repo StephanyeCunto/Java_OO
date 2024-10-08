@@ -105,6 +105,26 @@ Crie a **classe** em Java com seus métodos mais elementares:
 
 - **Atributos**: `nome_empresa` (String), `preco_acao` (double), `volume_negociacoes` (double), `variacao_diaria` (double).
   
+### Exercício 11 - Cadastro de Livros
+
+Este exercício consiste em desenvolver um programa em Java que realiza o cadastro de livros, permitindo ao usuário adicionar, remover e pesquisar livros por título ou autor.
+
+#### Funcionalidades Implementadas
+
+- **Inserir Livro**: O usuário pode inserir um novo livro preenchendo os seguintes campos:
+  - `Título`
+  - `Autor`
+  - `Número de páginas`
+  - `Preço`
+
+- **Remover Livro**: É possível remover um livro da lista fornecendo o título correspondente.
+
+- **Pesquisar Livro (Título)**: O programa permite procurar um livro específico na lista, pesquisando pelo título fornecido pelo usuário.
+
+- **Pesquisar Livro (Autor)**: O usuário pode procurar livros na lista que correspondam ao autor informado.
+
+## Como Executar
+1. Compile o programa utilizando o seguinte comando no terminal:
 
 
 ## Como Executar
